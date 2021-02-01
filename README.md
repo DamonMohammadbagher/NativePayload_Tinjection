@@ -20,6 +20,9 @@ step by step => Chapter 14 : C# Delegate & Remote Thread Injection Technique (Pa
 
 https://github.com/DamonMohammadbagher/eBook-BypassingAVsByCSharp/blob/master/CH14/Bypassing%20Anti%20Viruses%20by%20C%23.NET%20Programming%20Chapter%2014%20-Part1.pdf
 
+------------------------------------------------
+
+online eBook, (chapters): https://damonmohammadbagher.github.io/Posts/ebookBypassingAVsByCsharpProgramming/
 
 ------------------------------------------------
 
