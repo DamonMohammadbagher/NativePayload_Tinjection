@@ -1,7 +1,7 @@
 # NativePayload_Tinjection
 Remote Thread Injection by C#
 
-your Payload should be Msfvenom payload ... 
+Your Payload Should be Msfvenom Payload ... 
 
     Code1: NativePayload_Tinjection.exe [TPID] [PAYLOAD]
 
