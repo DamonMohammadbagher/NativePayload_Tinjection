@@ -51,4 +51,4 @@ NativePayload_Tinjection.cs
 
 NativePayload_Tinjection2nt.cs
 
-![](https://github.com/DamonMohammadbagher/NativePayload_Tinjection/blob/main/NativePayload_Tinjection2nt.png)
+![](https://github.com/DamonMohammadbagher/NativePayload_Tinjection/blob/main/Picture/NativePayload_Tinjection2nt.png)
