@@ -45,5 +45,10 @@ online eBook, (chapters): https://damonmohammadbagher.github.io/Posts/ebookBypas
 
 ------------------------------------------------
 
+NativePayload_Tinjection.cs
 
 ![](https://github.com/DamonMohammadbagher/NativePayload_Tinjection/blob/main/Picture/2.jpeg)
+
+NativePayload_Tinjection2nt.cs
+
+![](https://github.com/DamonMohammadbagher/NativePayload_Tinjection/blob/main/NativePayload_Tinjection2nt.png)
