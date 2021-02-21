@@ -1,5 +1,5 @@
 # NativePayload_Tinjection
-Creating Remote Thread into Target Process , (Remote Thread Injection by C#)
+Creating Remote Thread into Target Process , (Remote Thread Injection by C# + Delegate Techniques)
 
 -----------------------
 Related Links for "Mitre ATT&CK" : 
