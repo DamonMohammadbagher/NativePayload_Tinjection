@@ -2,7 +2,7 @@
 Creating Remote Thread into Target Process , (Remote Thread Injection by C# + Delegate Techniques)
 
 -----------------------
-Related Links for "Mitre ATT&CK" : 
+Related Links for "Mitre ATT&CK": 
 
 Process Injection: Portable Executable Injection ==>  https://attack.mitre.org/techniques/T1055/002/
 
@@ -35,7 +35,7 @@ msfvenom –platform windows –arch x86_64 -p windows/x64/meterpreter/reverse_t
 
 Article [1]: https://www.linkedin.com/pulse/bypassing-anti-virus-creating-remote-thread-target-mohammadbagher
 
-step by step => Chapter 14 : C# Delegate & Remote Thread Injection Technique (Part1)
+step by step => Chapter 14: C# Delegate & Remote Thread Injection Technique (Part1)
 
 https://github.com/DamonMohammadbagher/eBook-BypassingAVsByCSharp/blob/master/CH14/Bypassing%20Anti%20Viruses%20by%20C%23.NET%20Programming%20Chapter%2014%20-Part1.pdf
 
