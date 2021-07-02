@@ -52,3 +52,6 @@ NativePayload_Tinjection.cs
 NativePayload_Tinjection2nt.cs
 
 ![](https://github.com/DamonMohammadbagher/NativePayload_Tinjection/blob/main/Picture/NativePayload_Tinjection2nt.png)
+
+<p><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/DamonMohammadbagher/NativePayload_Tinjection"/></a></p>
+
